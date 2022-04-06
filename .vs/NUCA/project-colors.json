@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7359d61-f449-4d6b-b783-320d8da7528e": {
+      "ProjectGuid": "c7359d61-f449-4d6b-b783-320d8da7528e",
+      "DisplayName": "NUCA.Invoices.Api",
+      "ColorIndex": 0
+    },
+    "3b5b04d6-38c2-4c11-8275-975851121b69": {
+      "ProjectGuid": "3b5b04d6-38c2-4c11-8275-975851121b69",
+      "DisplayName": "NUCA.Invoices.Domain",
+      "ColorIndex": 1
+    },
+    "1d0fe29f-3168-4691-bd93-a2945deebe72": {
+      "ProjectGuid": "1d0fe29f-3168-4691-bd93-a2945deebe72",
+      "DisplayName": "NUCA.Invoices.Application",
+      "ColorIndex": 2
+    },
+    "0fdaab5f-d4d9-4c0d-a4f0-c9a7672844f5": {
+      "ProjectGuid": "0fdaab5f-d4d9-4c0d-a4f0-c9a7672844f5",
+      "DisplayName": "NUCA.Invoices.Data",
+      "ColorIndex": 3
+    },
+    "532d9722-5e0d-4ae4-b18d-29f4476116d8": {
+      "ProjectGuid": "532d9722-5e0d-4ae4-b18d-29f4476116d8",
+      "DisplayName": "Projects.Domain",
+      "ColorIndex": 4
+    },
+    "ddeca6eb-8104-4e83-91a7-07ab2dcd453b": {
+      "ProjectGuid": "ddeca6eb-8104-4e83-91a7-07ab2dcd453b",
+      "DisplayName": "NUCA.Projects.Domain",
+      "ColorIndex": 5
+    },
+    "584533b8-fda7-4788-b982-b5c7b61fd083": {
+      "ProjectGuid": "584533b8-fda7-4788-b982-b5c7b61fd083",
+      "DisplayName": "Common",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2891a95a-499e-476a-a3a9-ca8aa01b854b": {
+      "ProjectGuid": "2891a95a-499e-476a-a3a9-ca8aa01b854b",
+      "DisplayName": "NUCA.Identity",
+      "ColorIndex": 7
+    },
+    "c493dc8b-bc05-4b0c-9e89-74d52e2c7717": {
+      "ProjectGuid": "c493dc8b-bc05-4b0c-9e89-74d52e2c7717",
+      "DisplayName": "NUCA.Common",
+      "ColorIndex": 8
+    },
+    "545b9df9-aa7f-4de3-9ca3-aeea5c2df8f3": {
+      "ProjectGuid": "545b9df9-aa7f-4de3-9ca3-aeea5c2df8f3",
+      "DisplayName": "NUCA.Projects.Data",
+      "ColorIndex": 9
+    },
+    "23633548-83ec-402a-9b5e-8c7c1ddfea4f": {
+      "ProjectGuid": "23633548-83ec-402a-9b5e-8c7c1ddfea4f",
+      "DisplayName": "NUCA.Projects.Application",
+      "ColorIndex": 10
+    },
+    "c8f12a46-0f71-4a24-8963-5983983770cf": {
+      "ProjectGuid": "c8f12a46-0f71-4a24-8963-5983983770cf",
+      "DisplayName": "NUCA.Projects.Api",
+      "ColorIndex": 11
+    },
+    "99fb253d-5662-4064-8725-bbf205bc6861": {
+      "ProjectGuid": "99fb253d-5662-4064-8725-bbf205bc6861",
+      "DisplayName": "NUCA.Boqs.Domain",
+      "ColorIndex": 12
+    },
+    "2f86e69d-75fb-4eb4-8d2d-08c129a5ad6b": {
+      "ProjectGuid": "2f86e69d-75fb-4eb4-8d2d-08c129a5ad6b",
+      "DisplayName": "NUCA.Boqs.Application",
+      "ColorIndex": 13
+    },
+    "6a159cc4-29e1-4b31-ae65-0ca0d096f59a": {
+      "ProjectGuid": "6a159cc4-29e1-4b31-ae65-0ca0d096f59a",
+      "DisplayName": "NUCA.Boqs.Data",
+      "ColorIndex": 14
+    },
+    "2a27984b-1ccb-431f-949a-83991c659eed": {
+      "ProjectGuid": "2a27984b-1ccb-431f-949a-83991c659eed",
+      "DisplayName": "NUCA.Boqs.Api",
+      "ColorIndex": 15
+    },
+    "57976f3c-a130-41a5-8c6f-8b12a2057291": {
+      "ProjectGuid": "57976f3c-a130-41a5-8c6f-8b12a2057291",
+      "DisplayName": "Web.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
