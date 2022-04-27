@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tIhjEvoXEfqrZqtjwUVtH6UbFfOmfaG8nFQ8he0P3MMM/+QJqflPFmNb9Z2XDyecXUAlro5TA+i+dpXJxU8dNw==",
+  "success": true,
+  "projectFilePath": "F:\\ORG\\Microservices\\C\\NUCA\\Projects\\Projects.Domain\\NUCA.Projects.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\ardalis.guardclauses\\4.0.0\\ardalis.guardclauses.4.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

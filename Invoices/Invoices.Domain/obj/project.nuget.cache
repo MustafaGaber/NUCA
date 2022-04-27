@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yhSbtqCpy5RWiFsChP9vu8YhzlfIHIVsTCsLi95xeaDnxnoM0kwtnWXZ1atOAGgVJsOj/jZHDQVoD1rF4kETOg==",
+  "dgSpecHash": "l72/EgLrlTiy/9SH9O6WKE8UXHaHTVaCmnXakJ8l9PaSeRTP3AoF1CyT+cp3CtjWkWnCeXq/vQXaUMdGwUvoQw==",
   "success": true,
-  "projectFilePath": "F:\\ORG\\Microservices\\C#\\NUCA\\Invoices\\Invoices.Domain\\NUCA.Invoices.Domain.csproj",
+  "projectFilePath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Domain\\NUCA.Projects.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Win10\\.nuget\\packages\\ardalis.guardclauses\\4.0.0\\ardalis.guardclauses.4.0.0.nupkg.sha512",
-    "C:\\Users\\Win10\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\ardalis.guardclauses\\4.0.0\\ardalis.guardclauses.4.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512"
   ],
   "logs": []
 }

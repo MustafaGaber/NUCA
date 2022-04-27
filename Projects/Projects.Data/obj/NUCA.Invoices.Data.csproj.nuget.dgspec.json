@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Data\\NUCA.Invoices.Data.csproj": {}
+  },
+  "projects": {
+    "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Application\\NUCA.Projects.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Application\\NUCA.Projects.Application.csproj",
+        "projectName": "NUCA.Projects.Application",
+        "projectPath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Application\\NUCA.Projects.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Domain\\NUCA.Invoices.Domain.csproj": {
+                "projectPath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Domain\\NUCA.Invoices.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Data\\NUCA.Invoices.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Data\\NUCA.Invoices.Data.csproj",
+        "projectName": "NUCA.Invoices.Data",
+        "projectPath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Data\\NUCA.Invoices.Data.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Application\\NUCA.Projects.Application.csproj": {
+                "projectPath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Application\\NUCA.Projects.Application.csproj"
+              },
+              "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Domain\\NUCA.Invoices.Domain.csproj": {
+                "projectPath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Domain\\NUCA.Invoices.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Domain\\NUCA.Invoices.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Domain\\NUCA.Invoices.Domain.csproj",
+        "projectName": "NUCA.Invoices.Domain",
+        "projectPath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Domain\\NUCA.Invoices.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "F:\\ORG\\Microservices\\C\\NUCA\\Invoices\\Invoices.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

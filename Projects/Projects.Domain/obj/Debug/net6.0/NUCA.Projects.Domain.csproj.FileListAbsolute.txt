@@ -1,0 +1,12 @@
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\bin\Debug\net6.0\NUCA.Projects.Domain.deps.json
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\bin\Debug\net6.0\NUCA.Projects.Domain.dll
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\bin\Debug\net6.0\NUCA.Projects.Domain.pdb
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\obj\Debug\net6.0\NUCA.Projects.Domain.csproj.AssemblyReference.cache
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\obj\Debug\net6.0\NUCA.Projects.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\obj\Debug\net6.0\NUCA.Projects.Domain.AssemblyInfoInputs.cache
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\obj\Debug\net6.0\NUCA.Projects.Domain.AssemblyInfo.cs
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\obj\Debug\net6.0\NUCA.Projects.Domain.csproj.CoreCompileInputs.cache
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\obj\Debug\net6.0\NUCA.Projects.Domain.dll
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\obj\Debug\net6.0\refint\NUCA.Projects.Domain.dll
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\obj\Debug\net6.0\NUCA.Projects.Domain.pdb
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Domain\obj\Debug\net6.0\ref\NUCA.Projects.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jb+PNQG7meL/+A4qxh2g2NWKsAIikmlMMXa8BFy7qETBGic6jkMEN2VoEOJmaKpKEItW1TCSDOgVrJUViIMWWw==",
+  "dgSpecHash": "cyLLmOaL7mj4NSbs/zjt2l21tc9aLTUQj/BgGdakWT97hwUwEBtzVWU2urFXo7hPAPTtuR6Xbz4pnTl3ZEFC/g==",
   "success": true,
-  "projectFilePath": "F:\\ORG\\Microservices\\C#\\NUCA\\NUCA.Common\\NUCA.Common.csproj",
+  "projectFilePath": "F:\\ORG\\Microservices\\C\\NUCA\\NUCA.Common\\NUCA.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\bin\Debug\net6.0\NUCA.Invoices.Application.deps.json
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\bin\Debug\net6.0\NUCA.Invoices.Application.dll
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\bin\Debug\net6.0\NUCA.Invoices.Application.pdb
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\bin\Debug\net6.0\NUCA.Invoices.Domain.dll
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\bin\Debug\net6.0\NUCA.Invoices.Domain.pdb
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\NUCA.Invoices.Application.csproj.AssemblyReference.cache
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\NUCA.Invoices.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\NUCA.Invoices.Application.AssemblyInfoInputs.cache
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\NUCA.Invoices.Application.AssemblyInfo.cs
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\NUCA.Invoices.Application.csproj.CoreCompileInputs.cache
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\NUCA.Invoices.Application.csproj.CopyComplete
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\NUCA.Invoices.Application.dll
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\refint\NUCA.Invoices.Application.dll
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\NUCA.Invoices.Application.pdb
+F:\ORG\Microservices\C\NUCA\Invoices\Invoices.Application\obj\Debug\net6.0\ref\NUCA.Invoices.Application.dll
